@@ -9,11 +9,11 @@ It´s a simple code that use speech recognition to identify what you say and sho
 
 **Important:**
 
-  PyAudio is missing, in order to install ypu should do: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PyAudio is missing, in order to install ypu should do: 
   
-      1.- pip install pipwin
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.- pip install pipwin
       
-      2.- pipwin install pyaudio
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.- pipwin install pyaudio
 
 3.- Run code: python3 voice_recognition.py
 
